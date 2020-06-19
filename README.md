@@ -1,6 +1,6 @@
 # worldtime
 
-A new Flutter application.
+A new Flutter application. Created from the tutorial. (https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg)
 
 ## Getting Started
 
